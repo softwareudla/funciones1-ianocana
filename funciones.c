@@ -3,8 +3,8 @@
 #include "funciones.h"
 
 
-/*char nombresProd[10][30];
-float precioProd[10];*/
+char nombresProd[10][30];
+float precioProd[10];
 
 int leerNumeroProductos (int num) {
     do {

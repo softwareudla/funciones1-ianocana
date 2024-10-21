@@ -1,6 +1,3 @@
-char nombresProd[10][30];
-float precioProd[10];
-
 int leerNumeroProductos (int num);
 void asignacionNombrePrecio (int num);
 float Total (int valor);
