@@ -53,7 +53,7 @@ void maximo(int valor) {
             }
         }
     }
-    printf("El producto más caro es %s con precio de: %.2f \n", nombre, nummax);
+    printf("El producto mas caro es %s con precio de: %.2f \n", nombre, nummax);
 }
  
 void minimo(int valor) {
@@ -71,7 +71,7 @@ void minimo(int valor) {
             }
         }
     }
-    printf("El producto más barato es %s con precio de: %.2f \n", nombre, nummin);
+    printf("El producto mas barato es %s con precio de: %.2f \n", nombre, nummin);
 }
  
 float promedio(float total, int valor) {
@@ -94,6 +94,6 @@ int buscar(int valor) {
         }
     }
  
-    printf("El producto %s no está en el sistema \n", nombre);
+    printf("El producto %s no esta en el sistema \n", nombre);
     return 0;
 }
