@@ -25,7 +25,7 @@ void asignacionNombrePrecio(int num) {
         scanf("%f", &precioProd[i]);
  
         if (precioProd[i] < 0) {
-            printf("El valor ingresado no es válido. Inténtalo de nuevo.\n");
+            printf("El valor ingresado no es valido. Intentalo de nuevo.\n");
             i--;
         }
     }
